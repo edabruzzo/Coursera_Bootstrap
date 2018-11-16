@@ -29,8 +29,9 @@ Downloading Bootstrap
 You will use npm to fetch the Bootstrap files for use within your project. Thereafter you need to install JQuery and Popper.js as shown below since Bootstrap 4 depends on these two. At the prompt, type the following to fetch Bootstrap files to your project folder:
 
 
-npm install bootstrap@4.0.0 --save
-npm install jquery@3.3.1 popper.js@1.12.9 --save
+npm install bootstrap@4.1.2 --save
+
+npm install jquery@3.3.1 popper.js@1.14.3 --save
 
 
 
